@@ -1,0 +1,26 @@
+Data Cleaning Notes – Digital Banking Adoption Project
+Dataset: Global Findex Database (World Bank) – 2021
+Source: https://databankfiles.worldbank.org/public/ddpext_download/FINDEX/Databank_WorldDevelopmentIndicators/WDIGlobalFindex2021.xlsx
+
+Cleaning Steps:
+
+Filtered dataset to only include data for the year 2021.
+
+Selected relevant columns related to digital banking and payment adoption indicators.
+
+Renamed columns for clarity and easy analysis:
+
+Country Name → Country
+
+Year → Year
+
+Adult Population → Adult Population
+
+Income Group → Income Group
+
+Other columns were renamed to clearly indicate account ownership, mobile usage, digital payments, etc.
+
+Saved cleaned dataset as digital_banking_adoption_2021.csv.
+
+Next Steps:
+Use this cleaned dataset for further analysis and Tableau dashboard creation.
