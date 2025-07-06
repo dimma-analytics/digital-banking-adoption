@@ -41,14 +41,13 @@ This publicly available dataset contains information about financial inclusion a
 ---
 
 ## 📂 Project Structure
-digital-banking-adoption/
-│
-├── data/ → Cleaned dataset (CSV format)
-├── analysis/ → Exported Tableau dashboard images
-├── screenshots/ → Project progress & analysis step screenshots
-├── insights.md → SMART questions + detailed insights
-└── README.md → Project overview (this file)
-
+| Folder | Description |
+|--------|-------------|
+| **data/** | Contains the exported CSV dataset used in this analysis. |
+| **analysis/** | Tableau chart visualizations based on the dataset. |
+| **screenshots/** | Screenshots showing the SQL queries, Tableau setup, and steps taken during analysis. |
+| **insights.md** | A summary of key findings from the project. |
+| **README.md** | Project overview and documentation (this file). |
 
 ---
 
